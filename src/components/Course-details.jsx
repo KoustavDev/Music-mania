@@ -64,7 +64,7 @@ export default function CoursesDetails({ slug = 'guitar-fundamentals' }) {
                 <CardFooter className="bg-muted mt-6 p-6">
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full">
                         <div>
-                            <h3 className="font-semibold mb-2">What you'll learn</h3>
+                            <h3 className="font-semibold mb-2">What you&apos;ll learn</h3>
                             <ul className="list-disc list-inside">
                                 <li>Comprehensive curriculum</li>
                                 <li>Hands-on exercises</li>

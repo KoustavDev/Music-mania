@@ -24,7 +24,7 @@ export function ContactPage() {
         <main className="w-full max-w-md">
           <h1 className="text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white">CONTACT</h1>
           <p className="text-gray-400 text-center mb-8">
-            We're here to help with any questions about our courses, programs, or events.
+            We&apos;re here to help with any questions about our courses, programs, or events.
             Reach out and let us know how we can assist you in your journey.
           </p>
 
